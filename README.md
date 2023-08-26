@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yumna Warsi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <div align="center">
-    <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Banner"> </img>
+    <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Banner">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
